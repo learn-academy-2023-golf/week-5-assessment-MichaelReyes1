@@ -12,7 +12,7 @@ We recommend GitHub pages for HTML/CSS and Render.com for React. Your portfolio 
 
 ### LinkedIn
 
-Your LinkedIn url: https://github.com/learn-academy-2023-golf/week-5-assessment-MichaelReyes1.git
+Your LinkedIn url: www.linkedin.com/in/michaelreyes5
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 
